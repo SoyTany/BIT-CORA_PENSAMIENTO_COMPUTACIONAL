@@ -33,10 +33,10 @@ escribir una línea para continuar abajo.
 
 ### ENCARGO PROX 17 DE ABRIL
 - Crear repositorio en github y compartirlo en la tarea de canvas.
-- Crear archivo **clase-03.md** dentro de una carpeta **clases** dentro del repositorio.
-- Ver alguna de las siguientes películas y comentarla en el archivo **clase-03.md**
+- Crear archivo **clase-03.md** dentro de una carpeta **clases** dentro del repositorio.  
+- Ver alguna de las siguientes películas y comentarla en el archivo **clase-03.md**  
 
-#### PELÍCULAS
+**PELÍCULAS**
 1. Código enigma
 2. Matrix (la primera)
 3. Pi: fe en el caos
