@@ -1,2 +1,3 @@
-# BIT-CORA_PENSAMIENTO_COMPUTACIONAL
+# BITÁCORA_PENSAMIENTO_COMPUTACIONAL
 Bitácora de Catalina Vergara, Sección 5, Pensamiento Computacional
+
