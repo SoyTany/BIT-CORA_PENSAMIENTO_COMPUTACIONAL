@@ -1,5 +1,6 @@
-# clase-03: Iniciar en Github y crear nuestro primer repositorio
+# Clase 3: _Iniciar en Github y crear nuestro primer repositorio_
 
+**ENCABEZADOS Y TAMAÑOS:**
 # Lorem Ipsum H1
 ## Lorem Ipsum H2
 ### Lorem Ipsum H3
