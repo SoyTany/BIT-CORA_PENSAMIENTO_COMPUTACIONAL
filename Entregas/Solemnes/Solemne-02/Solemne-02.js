@@ -40,7 +40,7 @@ function draw() {
   }
   
 push();
-    imageMode(CORNER); // Ponemos modo esquina para que cubra de 0,0 a 600,600
+    imageMode(CORNER); 
     if (fondoInicial === 1) {
       image(noticiero1, 0, 0, 600, 600);
     } else if (fondoInicial === 2) {
@@ -111,8 +111,8 @@ strokeWeight(0);
     quad(125, 355, 125, 315, 595, 175, 595, 255);
   
   fill(100, 0, 100);
-  textSize(15);
+  textSize(12.3);
   textFont("TEKO");
-  text("Mantén el click para activar el vinilo", 100, 597);
+  text("Mantén el click para activar el vinilo, y mueve el cursor de arriba a abajo para protestar", 0, 597);
   
 }
