@@ -2,13 +2,13 @@
 
 ## Integrantes del grupo
 
-- (Christian Petit-Laurent) [cuentaGithub](https://github.com/Chrisploo)
-- (Florencia Valencia) [cuentaGithub](https://github.com/zxxnie)
-- (Catalina Vergara) [cuentaGithub](https://github.com/SoyTany)
+- (Christian Petit-Laurent) [Chrisploo](https://github.com/Chrisploo)
+- (Florencia Valencia) [zxxnie](https://github.com/zxxnie)
+- (Catalina Vergara) [SoyTany](https://github.com/SoyTany)
 
 ## Descripción del disco
 
-![Portada de álbum](.Recursos/la-voz-de-los-80.jpg)
+![La Voz de los 80](Recursos/la-voz-de-los-80.jpeg)
 
 - (LA VOZ DE LOS 80's)
 - 1984
