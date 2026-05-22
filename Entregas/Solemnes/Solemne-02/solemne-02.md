@@ -30,15 +30,15 @@
 
 - Aspecto del álbum a desarrollar (premisa)
 
-> Lorem ipsum blablabla
+> Desarrollamos el mensaje del álbum en una representación visual. Este consiste en un llamado a despertar a las generaciones jóvenes, incentivándolas a pensar por sí mismas y a dejar de aceptar una sociedad vacía, manipulada y conformista, utilizando conceptos clave como la rebeldía juvenil, la crítica social y la influencia de los medios.
 
 ## Conclusión del proceso
 
 - Distancia entre premisa y resultado
 
-> Lorem ipsum blablabla párrafo 1
+> Usamos elementos visuales como puños siendo levantados coordinadamente para representar Protestas, junto a los textos incluidos que expresan ese mismo mensaje.
 >
-> Lorm ipsum párrafo 2
+> Adicionalmente, colocamos imágenes de Noticieros chilenos mezclados con protestas chilenas. Para poder mezclar de una forma coherente la protesta y el llamado a no confiar en los medios.
 
 - Cosas no conseguidas
 
