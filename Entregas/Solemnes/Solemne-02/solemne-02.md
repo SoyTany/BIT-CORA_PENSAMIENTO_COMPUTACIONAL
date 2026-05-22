@@ -8,15 +8,15 @@
 
 ## Descripción del disco
 
-![La Voz de los 80](Recursos/la-voz-de-los-80.jpeg)
+![La Voz de los '80](Recursos/la-voz-de-los-80.jpeg)
 
-- (LA VOZ DE LOS 80's)
+- (LA VOZ DE LOS '80)
 - 1984
 - Los Prisioneros
 - Tracklist
 
 ```txt
-1. La voz de los 80's
+1. La voz de los '80
 2. Brigada de Negro
 3. Latinoamérica Es un Pueblo en el Sur de Estados Unidos
 4. Eve-Evelyn
@@ -36,7 +36,7 @@
 
 - Distancia entre premisa y resultado
 
-> En el resultado final logramos representar casi a la perfección el mensaje del álbum. Usamos elementos visuales, como puños siendo levantados coordinadamente, para representar protestas, junto a textos incluidos que expresan ese mismo mensaje.
+> [Boceto/Idea](https://github.com/SoyTany/BITACORA_PENSAMIENTO_COMPUTACIONAL/blob/main/Entregas/Solemnes/Solemne-02/Recursos/Boceto-principal.png)En el resultado final logramos representar casi a la perfección el mensaje del álbum. Usamos elementos visuales, como puños siendo levantados coordinadamente, para representar protestas, junto a textos incluidos que expresan ese mismo mensaje.
  
 > Adicionalmente, colocamos imágenes de noticieros chilenos mezcladas con protestas chilenas, para combinar de forma coherente la protesta y el llamado a no confiar completamente en los medios.
 
