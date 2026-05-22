@@ -36,17 +36,17 @@
 
 - Distancia entre premisa y resultado
 
-> [Boceto/Idea](https://github.com/SoyTany/BITACORA_PENSAMIENTO_COMPUTACIONAL/blob/main/Entregas/Solemnes/Solemne-02/Recursos/Boceto-principal.png)En el resultado final logramos representar casi a la perfección el mensaje del álbum. Usamos elementos visuales, como puños siendo levantados coordinadamente, para representar protestas, junto a textos incluidos que expresan ese mismo mensaje.
+> [Boceto/Idea](https://github.com/SoyTany/BITACORA_PENSAMIENTO_COMPUTACIONAL/blob/main/Entregas/Solemnes/Solemne-02/Recursos/Boceto-principal.png) En el resultado final logramos representar casi a la perfección el mensaje del álbum. Usamos elementos visuales, como puños siendo levantados coordinadamente, para representar protestas, junto a textos incluidos que expresan ese mismo mensaje.
  
-> Adicionalmente, colocamos imágenes de noticieros chilenos mezcladas con protestas chilenas, para combinar de forma coherente la protesta y el llamado a no confiar completamente en los medios.
+> Adicionalmente, colocamos imágenes de noticieros chilenos mezcladas con protestas chilenas, para combinar de forma coherente la protesta y el llamado a no confiar completamente en los medios. Sumado a esto, agregamos una transición de color al rayo central, intercalando entre rojo y negro para una visual menos 2D a nuestro parecer, y generando ese efecto 3D haciendo que la "sombra" intercale de manera contraria con su contraparte, mateniendo el efecto continuamente.
 
 - Cosas no conseguidas
 
-> Queríamos que los puños fueran capaces de ser levantados y bajados en coordinación, pero solamente logramos que, en la parte inferior de la imagen, los puños bajen y, en la parte superior, suban, estando limitados por la parte superior de la página.
+> Queríamos que los puños fueran capaces de ser levantados y bajados en coordinación siguiendo el mouse, pero solamente logramos que, en la parte inferior de la imagen, los puños bajen y, en la parte superior, suban, estando limitados a la posición específica que tenga el curso dentro del canvas, en vez de solo subir y bajar con su límite mientras siguen el curso de arriba abajo independiente de la posición de este.
 
 - Descubrimientos al trabajar
 
-> Lorem ipsum blablabla
+> Descubrimos que el constrain(); permite generar un margen invisible dentro del canvas para que los elementos que se muevan no sobrepasen dichos margen quedandose estáticos al tocarlo. También descubrimos que modificando un enlace de Github que lleve a la dirección de una imagen subida enel repositorio, podemos integrarla en el p5j logrando que cualquier persona que tenga el archivo, pueda visualizar las imágenes sin necesidad de tenerla en su ordenador (*reemplazar github.com*: raw.githubusercontent.com / *eliminar*: /blob)
 
 ## Explicación del código (3 aspectos)
 
