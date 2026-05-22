@@ -8,9 +8,9 @@
 
 ## Descripción del disco
 
-![Portada de álbum](./Recursos/La voz de los 80's.jpeg)
+![Portada de álbum](./la-voz-de-los-80.jpeg)
 
-- (Nombre del álbum)
+- (La voz de los 80's)
 - Año del álbum
 - Artista
 - Tracklist
