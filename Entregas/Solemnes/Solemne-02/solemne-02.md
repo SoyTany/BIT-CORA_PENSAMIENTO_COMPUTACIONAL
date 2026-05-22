@@ -1,5 +1,5 @@
 # Plantilla para solemne-02
-![Link Sketch p5.js]((https://editor.p5js.org/Tanytanita/sketches/hDYcTbRMt))
+- [Link a sketch de P5.js](https://editor.p5js.org/Tanytanita/sketches/hDYcTbRMt)
 ## Integrantes del grupo
 
 - (Christian Petit-Laurent) [Chrisploo](https://github.com/Chrisploo)
