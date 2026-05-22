@@ -8,7 +8,7 @@
 
 ## Descripción del disco
 
-![Portada de álbum](./img/cover.jpg)
+![Portada de álbum](./Recursos/La voz de los 80's.jpeg)
 
 - (Nombre del álbum)
 - Año del álbum
