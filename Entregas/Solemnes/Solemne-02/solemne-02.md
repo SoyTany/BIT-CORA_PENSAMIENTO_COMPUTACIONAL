@@ -142,9 +142,9 @@ if (xTexto < -2350) {
 text("LA JUVENTUD DEBE DESPERTAR Y TENER VOZ PROPIA. LA SOCIEDAD Y LOS MEDIOS MANIPULAN A LAS PERSONAS Y FOMENTAN EL CONFORMISMO. ES NECESARO CUESTIONAR LAS NORMAS Y GENERAR UN CAMBIO SOCIAL Y CULTURAL", xTexto, 30);
 ```
 ## Bibliografía
-https://p5js.org/reference/p5/for/
-https://p5js.org/reference/p5/constrain/
-https://fonts.google.com/specimen/Anton+SC?preview.script=Latn&query=anton+SC
-https://es.wikipedia.org/wiki/La_voz_de_los_'80
-https://www.letras.com/los-prisioneros/372900/significado.html
-https://www.ciperchile.cl/2024/12/05/40-anos-de-la-voz-de-los-80-sintesis-y-bisagra-del-pop-chileno/
+- https://p5js.org/reference/p5/for/
+- https://p5js.org/reference/p5/constrain/
+- https://fonts.google.com/specimen/Anton+SC?preview.script=Latn&query=anton+SC
+- https://es.wikipedia.org/wiki/La_voz_de_los_'80
+- https://www.letras.com/los-prisioneros/372900/significado.html
+- https://www.ciperchile.cl/2024/12/05/40-anos-de-la-voz-de-los-80-sintesis-y-bisagra-del-pop-chileno/
