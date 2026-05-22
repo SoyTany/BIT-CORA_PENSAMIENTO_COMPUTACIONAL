@@ -10,15 +10,22 @@
 
 ![Portada de álbum](.Recursos/la-voz-de-los-80.jpg)
 
-- (La voz de los 80's)
-- Año del álbum
-- Artista
+- (LA VOZ DE LOS 80's)
+- 1984
+- Los Prisioneros
 - Tracklist
 
 ```txt
-1. Cancion 1
-2. Cancion 2
-3. Cancion 3
+1. La voz de los 80's
+2. Brigada de Negro
+3. Latinoamérica Es un Pueblo en el Sur de Estados Unidos
+4. Eve-Evelyn
+5. Sexo
+6. ¿Quién Mató a Marilyn?
+7. Paramar
+8. No Necesitamos Banderas
+9. Mentalidad Televisiva
+10. Nunca Quedas Mal Con Nadie
 ```
 
 - Aspecto del álbum a desarrollar (premisa)
