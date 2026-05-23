@@ -2,10 +2,10 @@ let amongus;
 let sus;
 let velocidadX = 2;
 
-// vamos a cambiar la posicion de amongus
+
 let posX = 0;
 let dirX = 1;
-// posición sus
+
 let posY = 0;
 let dirY = 1;
 let velocidadY = 2;
@@ -57,12 +57,12 @@ posX = posX + velocidadX * dirX;
   posY = posY + velocidadY * dirY;
   // Rebote inferior
   if (posY > height * 4/5 - 100){
-    dirY = -1; // Cambia el rebote en el eje Y
+    dirY = -1; 
     runColor(); 
   }
   // Rebote superior
   if (posY < height * 1/5){
-    dirY = 1; // Cambia rebote hacia abajo
+    dirY = 1; 
     runColor();
 }
  
